@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AaronValentino.
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Python for Data Science, and I am a student majoring in Electrical and Electronics Engineering.
+- 🌱 I’m currently learning Python for Data Science, and Swift for iOS Apps Developing.
 - 💞️ I’m in progress of learning how to code with git and GitHub. Feel free to drop some tips!
 
 <!---
