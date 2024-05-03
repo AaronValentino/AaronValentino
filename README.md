@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AaronValentino.
-- 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Python for Data Science, and Swift for iOS Apps Developing.
+- 👀 I’m interested in Software Programming.
+- 🌱 I’m currently learning Ruby on Rails for Web App Development.
 - 💞️ I’m in progress of learning how to code with git and GitHub. Feel free to drop some tips!
 
 <!---
